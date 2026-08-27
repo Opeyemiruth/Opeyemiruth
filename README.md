@@ -29,7 +29,7 @@ An end-to-end housing data analysis project using R.
 - Linear regression
 - Statistical interpretation
 
-🔗 [View Housing Data Analysis Project](https://github.com/Opeyemiruth/housing-data-analysis-r)
+🔗🔗 [View Housing Data Analysis Project](https://github.com/Opeyemiruth/housing-data-analysis-r)
 
 ## 🎯 Currently
 
