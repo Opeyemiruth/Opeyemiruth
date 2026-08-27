@@ -1,6 +1,6 @@
 # Hi, I'm Opeyemi Ruth 👋🏽
 
-### Data Analyst | Aspiring Data Scientist
+### Data Analyst | Data Science Enthusiast
 
 I'm a data analyst with a background in microbiology and a growing focus on data science. I enjoy using data to uncover insights, solve problems, and support better decision-making.
 
@@ -40,4 +40,4 @@ An end-to-end housing data analysis project using R.
 
 ## 📫 Connect With Me
 
-My LinkedIn profile is currently unavailable, but I'll add it here when it's accessible again.
+I'm open to connecting with other data professionals and exploring opportunities in data analytics and data science.
